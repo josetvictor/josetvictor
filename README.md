@@ -1,5 +1,4 @@
 <h1 align="center">José Victor</h1>
-<h4 align="center">A dev web from Brazil. 👨🏾‍💻</h4>
 
 ### 🧮 Technologies
 
