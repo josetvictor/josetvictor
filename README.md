@@ -2,9 +2,9 @@
 
 # Olá, Bem-Vindo ao meu Github
 
-Como atuei em projetos com questôes confidenciais desde de minha primeira experiência como desenvolvedor Web, só possuo repositórios públicos que foram desenvolvidos através de matérias da graduação ou estudos de maneira geral.
+Desde de minha primeira experiência como desenvolvedor em 2017, sempre trabalhei em projetos que envolviam questôes de confidencialidades, por isso, só possuo repositorios publicos que foram desenvolvidos por matérias da graduação ou estudos de maneira geral.
 
-Atualmente tenho trabalhado como pesquisador e freelancer desde maio deste ano.
+Atualmente tenho trabalhado como pesquisador e freelancer desde maio desse ano.
 
 Além dos meus últimos trabalhos atuando com a Stack .NET, tenho experiência com NodeJS em construções de APIs e conhecimentos de Frontend utilizando em alguns projetos Angular e ReactJS entre outras áreas de interesse.
 
