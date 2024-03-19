@@ -20,7 +20,7 @@ No topo desse README você pode ter acesso ao meu Linkedin caso queira entrar em
 ## Tecnologias de interesse
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,react,angular,selenium,mysql,postgresql,linux" />
+    <img src="https://skillicons.dev/icons?i=py,react,angular,selenium,mysql,postgresql,linux" />
   </a>
 </p>
 
