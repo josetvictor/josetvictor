@@ -13,7 +13,7 @@ No topo desse README você pode ter acesso ao meu Linkedin caso queira entrar em
 ## Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,javascript,nodejs" />
   </a>
 </p>
 
