@@ -2,9 +2,9 @@
 
 # Olá, Bem-Vindo ao meu Github
 
-Desde de minha primeira experiência como desenvolvedor em 2017, sempre trabalhei em projetos que envolviam questôes de confidencialidades, por isso, só possuo repositorios publicos que foram desenvolvidos por matérias da graduação ou estudos de maneira geral.
+Desde de minha primeira experiência como desenvolvedor em 2017, sempre trabalhei em projetos que envolviam questões de confidencialidades, por isso, só possuo repositorios publicos que foram desenvolvidos por matérias da graduação e/ou estudos de maneira geral.
 
-Atualmente tenho trabalhado como pesquisador e freelancer desde maio desse ano.
+Atualmente tenho trabalhado como pesquisador e freelancer desde maio de 2023.
 
 Além dos meus últimos trabalhos atuando com a Stack .NET, tenho experiência com NodeJS em construções de APIs e conhecimentos de Frontend utilizando em alguns projetos Angular e ReactJS entre outras áreas de interesse.
 
@@ -24,16 +24,8 @@ No topo desse README você pode ter acesso ao meu Linkedin caso queira entrar em
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/josetvictor">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josetvictor&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josetvictor&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</p>
-
-
-<!--
-<div align="center">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div aling="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josetvictor&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetvictor&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
--->
