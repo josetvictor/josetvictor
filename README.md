@@ -1,14 +1,9 @@
 <a href="https://www.linkedin.com/in/josetvictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-# Olá, Bem-Vindo ao meu Github
+# Hi There! 👋
 
-Desde de minha primeira experiência como desenvolvedor em 2017, sempre trabalhei em projetos que envolviam questões de confidencialidades, por isso, só possuo repositorios publicos que foram desenvolvidos por matérias da graduação e/ou estudos de maneira geral.
-
-Atualmente tenho trabalhado como pesquisador e freelancer desde maio de 2023.
-
-Além dos meus últimos trabalhos atuando com a Stack .NET, tenho experiência com NodeJS em construções de APIs e conhecimentos de Frontend utilizando em alguns projetos Angular e ReactJS entre outras áreas de interesse.
-
-No topo desse README você pode ter acesso ao meu Linkedin caso queira entrar em contato comigo!
+Me chamo José Victor, sou desenvolvedor fullstack, porém venho focando minha carreira para desenvolvimento backend. Tenho formação em analise e desenvolvimento de sistema pelo IFRN desde 2022 e estudo programação por curiosidade desde 2016.
+Possuo fortes habilidades com criações de sistemas backend com .Net e C# e Javascript utilizando express, tenho aprimorado minhas habilidades para Arquitetura de software, System Design e Testes de software. Gosto de aprender novas formas de resolver problemas utilizando tecnologias no dia a dia e tenho prazer em por a mão no codigo.
 
 ## Tecnologias
 <p>
@@ -24,8 +19,9 @@ No topo desse README você pode ter acesso ao meu Linkedin caso queira entrar em
   </a>
 </p>
 
-<div aling="center">
+<div aling=center>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josetvictor&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetvictor&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetvictor&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
 </div>
