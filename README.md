@@ -2,8 +2,8 @@
 
 # Hi There! 👋
 
-Me chamo José Victor, sou desenvolvedor fullstack, porém venho focando minha carreira para desenvolvimento backend. Tenho formação em analise e desenvolvimento de sistema pelo IFRN desde 2022 e estudo programação por curiosidade desde 2016.
-Possuo fortes habilidades com criações de sistemas backend com .Net e C# e Javascript utilizando express, tenho aprimorado minhas habilidades para Arquitetura de software, System Design e Testes de software. Gosto de aprender novas formas de resolver problemas utilizando tecnologias no dia a dia e tenho prazer em por a mão no codigo.
+Me chamo José Victor, sou desenvolvedor web fullstack, porém venho focando minha carreira para desenvolvimento backend. Tenho formação em Analise e Desenvolvimento de Sistema pelo IFRN desde 2022 e estudo programação por curiosidade desde 2016.
+Possuo fortes habilidades com criações de sistemas backend com .Net core utilizando C# e NodeJS, venho aprimorado minhas habilidades estudando mais sobre Arquitetura de software, System Design e Testes de software. Gosto de aprender novas formas de resolver problemas utilizando tecnologias no dia a dia e tenho prazer em por a mão no codigo.
 
 ## Tecnologias
 <p>
